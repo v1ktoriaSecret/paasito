@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![wakatime](https://wakatime.com/badge/user/ee035a1a-03d5-4528-a637-dfed83daa159.svg)](https://wakatime.com/@ee035a1a-03d5-4528-a637-dfed83daa159)<br>
+📆 my coding activity since Sep 17 2023:<br>
+[![wakatime](https://wakatime.com/badge/user/ee035a1a-03d5-4528-a637-dfed83daa159.svg)](https://wakatime.com/@ee035a1a-03d5-4528-a637-dfed83daa159)<br><br>
 I'll edit this later 🐈‍⬛
 <!--
 **paasito/paasito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
